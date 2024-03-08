@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "discount.max",
+      "type": "int",
+      "description": "A description for 'discount.max'"
+    },
+    {
+      "name": "discount.rate",
+      "type": "double",
+      "description": "A description for 'discount.rate'"
+    }
+  ]
+}
